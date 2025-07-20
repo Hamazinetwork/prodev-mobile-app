@@ -6,4 +6,4 @@ const FACEBOOKLOGO = require('@/assets/images/facebook.png')
 
 export {
     BACKGROUNDIMAGE, FACEBOOKLOGO, GOOGLELOGO, HEROLGOGREEN, HEROLOGO
-}
+};
